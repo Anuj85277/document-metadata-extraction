@@ -1,0 +1,19 @@
+# Virtual env
+env/
+venv/
+
+# Environment variables
+.env
+
+# Temp OCR / uploads
+temp_*.png
+temp_*.jpg
+temp_*.pdf
+temp_*.docx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store

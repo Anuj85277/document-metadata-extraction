@@ -1,0 +1,10 @@
+python-docx
+pillow
+pytesseract
+openai
+pandas
+fastapi
+uvicorn
+python-multipart
+python-dateutil
+groq
